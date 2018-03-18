@@ -1,0 +1,31 @@
+{
+  "name": "data-enhancer",
+  "version": "0.1.0",
+  "description": "intensify the data from backend-server",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liukeyi300/data-enhancer.git"
+  },
+  "author": "liukeyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liukeyi300/data-enhancer/issues"
+  },
+  "homepage": "https://github.com/liukeyi300/data-enhancer#readme",
+  "dependencies": {
+    "commander": "^2.15.0",
+    "ejs": "^2.5.7"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.7",
+    "typescript": "^2.7.2"
+  }
+}

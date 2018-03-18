@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": false,
+    "rootDir": "lib",
+    "outDir": "dist",
+    "lib": [
+      "es2015.collection",
+      "es2016.array.include",
+      "es2015.core",
+      "es2017.object",
+      "es6",
+      "es7"
+    ],
+    "watch": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "./lib/**/*"
+  ]
+}

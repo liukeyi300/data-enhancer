@@ -1,0 +1,30 @@
+#!/usr/bin/env node
+const program = require('commander');
+const generate = require('../dist/generate');
+
+program
+    .version('0.1.0')
+    .usage('-i <input...> -o <output...>')
+    .option('-i, --input <path>', 'input file path')
+    .option('-o, --output <path>', 'output file path')
+    .parse(process.argv);
+
+program.on('--help', function () {
+    console.log('  Examples:');
+    console.log('');
+    console.log('    $ custom-help --help');
+    console.log('    $ custom-help -h');
+    console.log('');
+});
+
+
+/**
+ * Help.
+ */
+
+function help () {
+    if (!program.input && !program.output) return program.help()
+}
+help();
+
+generate(program.input, program.output);
