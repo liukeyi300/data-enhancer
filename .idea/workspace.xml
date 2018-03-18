@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e0e804e-46ab-45f2-8ffa-273cbd6fe1a7" name="Default" comment="" />
+    <list default="true" id="6e0e804e-46ab-45f2-8ffa-273cbd6fe1a7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,12 +46,102 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="utils.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="utils.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/utils.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/swagger-json/example.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="2196" column="27" lean-forward="true" selection-start-line="2196" selection-start-column="27" selection-end-line="2196" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!block;n#info#0;n#!!top" expanded="false" />
+                <element signature="e#306#393#0" expanded="false" />
+                <element signature="e#395#478#0" expanded="false" />
+                <element signature="e#480#575#0" expanded="false" />
+                <element signature="e#577#664#0" expanded="false" />
+                <element signature="e#666#755#0" expanded="false" />
+                <element signature="e#757#842#0" expanded="false" />
+                <element signature="e#844#937#0" expanded="false" />
+                <element signature="e#939#1028#0" expanded="false" />
+                <element signature="e#1030#1113#0" expanded="false" />
+                <element signature="e#1115#1202#0" expanded="false" />
+                <element signature="e#1204#1295#0" expanded="false" />
+                <element signature="n#!!block;n#paths#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#PoiBasicInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ShopDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#SeoFootBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#MyListShopDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#SearchPoi#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#RelatedMyList#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ShopPicTagDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«ListInfoResponse»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#BrandNavBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Expense#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ExtInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#CitySwitchInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«HotelReview»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#HotwordOrArea#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«HistoryHotel»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«RelatedMyList»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#RecommendTitle#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Landmark#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#MyListBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ReviewUser#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#FollowNotePicDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#HistoryHotel#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Score#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ReviewFollowNoteDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«ListHotwordResponse»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#SubwayStation#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«HeaderInfo»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#TradingArea#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#HotelInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#SubwayLine#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#CityInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«ListOptionResponse»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#HotwordOrAreaTerm#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#SelectMenuItem#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#UserInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Review#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#RegionNavItem#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#HeaderInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#PoiPic#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#NearbyInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#HistoryHotelInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#HotelReview#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Star#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ListHotwordResponse#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ListInfoResponse#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«SeoFootBean»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ShopPicDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#IdNameDo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#LocationInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#SeoCity#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ApiResult«HotelInfo»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#PoiLocation#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Recommend#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#PoiIntro#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ReviewDataVO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#ListOptionResponse#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,6 +150,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/swagger-json/example.json" />
+      </list>
+    </option>
   </component>
   <component name="JsBowerSettings">
     <exe-path />
@@ -155,12 +255,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521377501894</updated>
-      <workItem from="1521377503296" duration="239000" />
+      <workItem from="1521377503296" duration="813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239000" />
+    <option name="totallyTimeSpent" value="813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -171,7 +271,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -231,9 +331,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/utils.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger-json/example.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="2196" column="27" lean-forward="true" selection-start-line="2196" selection-start-column="27" selection-end-line="2196" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!block;n#info#0;n#!!top" expanded="false" />
+            <element signature="e#306#393#0" expanded="false" />
+            <element signature="e#395#478#0" expanded="false" />
+            <element signature="e#480#575#0" expanded="false" />
+            <element signature="e#577#664#0" expanded="false" />
+            <element signature="e#666#755#0" expanded="false" />
+            <element signature="e#757#842#0" expanded="false" />
+            <element signature="e#844#937#0" expanded="false" />
+            <element signature="e#939#1028#0" expanded="false" />
+            <element signature="e#1030#1113#0" expanded="false" />
+            <element signature="e#1115#1202#0" expanded="false" />
+            <element signature="e#1204#1295#0" expanded="false" />
+            <element signature="n#!!block;n#paths#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#PoiBasicInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ShopDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SeoFootBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#MyListShopDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SearchPoi#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#RelatedMyList#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ShopPicTagDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«ListInfoResponse»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#BrandNavBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Expense#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ExtInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#CitySwitchInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«HotelReview»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HotwordOrArea#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«HistoryHotel»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«RelatedMyList»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#RecommendTitle#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Landmark#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#MyListBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ReviewUser#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#FollowNotePicDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HistoryHotel#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Score#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ReviewFollowNoteDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«ListHotwordResponse»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SubwayStation#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«HeaderInfo»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#TradingArea#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HotelInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SubwayLine#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#CityInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«ListOptionResponse»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HotwordOrAreaTerm#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SelectMenuItem#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#UserInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Review#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#RegionNavItem#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HeaderInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#PoiPic#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#NearbyInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HistoryHotelInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HotelReview#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Star#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ListHotwordResponse#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ListInfoResponse#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«SeoFootBean»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ShopPicDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#IdNameDo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#LocationInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SeoCity#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«HotelInfo»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#PoiLocation#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Recommend#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#PoiIntro#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ReviewDataVO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ListOptionResponse#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
