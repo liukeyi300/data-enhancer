@@ -10,5 +10,176 @@
       "a": "haha",
       "b": "test"
     }
-  }
+  },
+  "/api/monitor/alive": {
+    "get": {
+      "tags": ["monitor-api-controller"],
+      "summary": "alive",
+      "operationId": "aliveUsingGET",
+      "consumes": ["application/json"],
+      "produces": ["*/*"],
+      "responses": {
+        "200": {
+          "description": "OK",
+          "schema": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "401": {
+          "description": "Unauthorized"
+        },
+        "403": {
+          "description": "Forbidden"
+        },
+        "404": {
+          "description": "Not Found"
+        }
+      }
+    }
+  },
+  "/cityinfo": {
+    "get": {
+      "tags": ["city-info-controller"],
+      "summary": "获取城市信息",
+      "description": "需要传入城市英文名",
+      "operationId": "cityInfoUsingGET",
+      "consumes": ["application/json"],
+      "produces": ["application/json", "*/*"],
+      "parameters": [{
+        "name": "cityNameEn",
+        "in": "query",
+        "description": "城市英文名",
+        "required": true,
+        "type": "string"
+      }],
+      "responses": {
+        "200": {
+          "description": "OK",
+          "schema": {
+            "$ref": "#/definitions/ApiResult«CityInfo»"
+          }
+        },
+        "401": {
+          "description": "Unauthorized"
+        },
+        "403": {
+          "description": "Forbidden"
+        },
+        "404": {
+          "description": "Not Found"
+        }
+      }
+    }
+  },
+  "/historyhotel": {
+    "get": {
+      "tags": ["history-hotel-controller"],
+      "summary": "获取浏览历史信息",
+      "description": "需要传入shopIdList",
+      "operationId": "historyHotelUsingGET",
+      "consumes": ["application/json"],
+      "produces": ["application/json", "*/*"],
+      "parameters": [{
+        "name": "shopIdList",
+        "in": "query",
+        "description": "shopIdList",
+        "required": true,
+        "type": "string"
+      }],
+      "responses": {
+        "200": {
+          "description": "OK",
+          "schema": {
+            "$ref": "#/definitions/ApiResult«HistoryHotel»"
+          }
+        },
+        "401": {
+          "description": "Unauthorized"
+        },
+        "403": {
+          "description": "Forbidden"
+        },
+        "404": {
+          "description": "Not Found"
+        }
+      }
+    }
+  },
+  "/hotelInfo": {
+    "get": {
+      "tags": ["hotel-info-controller"],
+      "summary": "获取酒店基础信息",
+      "description": "需要传入合法shopId",
+      "operationId": "hotelInfoUsingGET",
+      "consumes": ["application/json"],
+      "produces": ["application/json", "*/*"],
+      "parameters": [{
+        "name": "shopId",
+        "in": "query",
+        "description": "点评shopId",
+        "required": true,
+        "type": "string"
+      }],
+      "responses": {
+        "200": {
+          "description": "OK",
+          "schema": {
+            "$ref": "#/definitions/ApiResult«HotelInfo»"
+          }
+        },
+        "401": {
+          "description": "Unauthorized"
+        },
+        "403": {
+          "description": "Forbidden"
+        },
+        "404": {
+          "description": "Not Found"
+        }
+      }
+    }
+  },
+  "/hotelreview": {
+    "get": {
+      "tags": ["hotel-review-controller"],
+      "summary": "获取用户及评价信息",
+      "description": "需要传入合法shopId(必须),传入dper(可选)",
+      "operationId": "hotelReviewUsingGET",
+      "consumes": ["application/json"],
+      "produces": ["application/json", "*/*"],
+      "parameters": [{
+        "name": "shopId",
+        "in": "query",
+        "description": "点评shopId",
+        "required": true,
+        "type": "string"
+      }, {
+        "name": "dper",
+        "in": "query",
+        "description": "用户信息",
+        "required": false,
+        "type": "string"
+      }],
+      "responses": {
+        "200": {
+          "description": "OK",
+          "schema": {
+            "$ref": "#/definitions/ApiResult«HotelReview»"
+          }
+        },
+        "401": {
+          "description": "Unauthorized"
+        },
+        "403": {
+          "description": "Forbidden"
+        },
+        "404": {
+          "description": "Not Found"
+        }
+      }
+    }
+  },
 }

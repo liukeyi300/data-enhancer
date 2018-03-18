@@ -5,26 +5,39 @@ Object.defineProperty(exports, "__esModule", { value: true });
  */
 var fs = require('fs');
 var path = require('path');
+var toString = Object.prototype.toString;
 function isSimpleType(v) {
-    return ['[object Boolean]', '[object String]', '[object Number]', '[object Array]'].indexOf(Object.prototype.toString.call(v)) > -1;
+    return ['[object Boolean]', '[object String]', '[object Number]', '[object Array]', 'object Null', 'object Undefined'].indexOf(toString.call(v)) > -1;
 }
 exports.isSimpleType = isSimpleType;
 function isBoolean(v) {
-    return '[object Boolean]' === Object.prototype.toString.call(v);
+    return '[object Boolean]' === toString.call(v);
 }
 exports.isBoolean = isBoolean;
 function isString(v) {
-    return '[object String]' === Object.prototype.toString.call(v);
+    return '[object String]' === toString.call(v);
 }
 exports.isString = isString;
 function isNumber(v) {
-    return '[object Number]' === Object.prototype.toString.call(v);
+    return '[object Number]' === toString.call(v);
 }
 exports.isNumber = isNumber;
 function isArray(v) {
-    return '[object Array]' === Object.prototype.toString.call(v);
+    return '[object Array]' === toString.call(v);
 }
 exports.isArray = isArray;
+function isNull(v) {
+    return '[object Null]' === toString.call(v);
+}
+exports.isNull = isNull;
+function isUndefined(v) {
+    return '[object Undefined]' === toString.call(v);
+}
+exports.isUndefined = isUndefined;
+function getType(v) {
+    return toString.call(v);
+}
+exports.getType = getType;
 function deleteFolder(baseDir) {
     var files = [];
     if (fs.existsSync(baseDir)) {

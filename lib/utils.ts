@@ -4,24 +4,38 @@
 const fs = require('fs');
 const path = require('path');
 
+const toString: Function = Object.prototype.toString;
+
 export function isSimpleType (v: any): boolean {
-    return ['[object Boolean]', '[object String]', '[object Number]', '[object Array]'].indexOf(Object.prototype.toString.call(v)) > -1;
+    return ['[object Boolean]', '[object String]', '[object Number]', '[object Array]', 'object Null', 'object Undefined'].indexOf(toString.call(v)) > -1;
 }
 
 export function isBoolean (v: any): boolean {
-    return '[object Boolean]' === Object.prototype.toString.call(v);
+    return '[object Boolean]' === toString.call(v);
 }
 
 export function isString (v: any): boolean {
-    return '[object String]' === Object.prototype.toString.call(v);
+    return '[object String]' === toString.call(v);
 }
 
 export function isNumber (v: any): boolean {
-    return '[object Number]' === Object.prototype.toString.call(v);
+    return '[object Number]' === toString.call(v);
 }
 
 export function isArray (v: any): boolean {
-    return '[object Array]' === Object.prototype.toString.call(v);
+    return '[object Array]' === toString.call(v);
+}
+
+export function isNull (v: any): boolean {
+    return '[object Null]' === toString.call(v);
+}
+
+export function isUndefined (v: any): boolean {
+    return '[object Undefined]' === toString.call(v);
+}
+
+export function getType (v: any): string {
+    return toString.call(v);
 }
 
 export function deleteFolder (baseDir: string) {

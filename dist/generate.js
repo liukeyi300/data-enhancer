@@ -56,6 +56,7 @@ function generate(baseDir, tree) {
         generate(path.resolve(baseDir, "./" + node.key), node.value);
     });
 }
+exports.generate = generate;
 module.exports = function (input, output) {
     console.log("inputPath: " + input + ", outputPath: " + output);
     console.log('check file......');

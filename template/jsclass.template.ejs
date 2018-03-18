@@ -3,8 +3,7 @@
  * The code is all auto-generated and carefully modify it
  */
 import NotNull from 'data-enhancer';
-<% for (let i = 0; i < childMap.length; i ++) { %>import <%= childMap[i].key %> from './<%=childMap[i].key %>';
-<% } %>
+<% for (let i = 0; i < childMap.length; i ++) { %>import <%= childMap[i].key %> from './<%=childMap[i].key %>';<% } %>
 
 export default class {
     constructor (obj = {}) {

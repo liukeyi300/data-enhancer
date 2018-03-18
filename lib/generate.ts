@@ -45,7 +45,7 @@ function generateIndexFile (baseDir: string, tree: IPropertyTree) {
     }));
 }
 
-function generate (baseDir: string, tree: IPropertyTree): number {
+export function generate (baseDir: string, tree: IPropertyTree): number {
     if (!fs.existsSync(baseDir)) {
         fs.mkdirSync(baseDir);
     }
