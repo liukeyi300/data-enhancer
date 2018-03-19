@@ -4,6 +4,10 @@
     <list default="true" id="6e0e804e-46ab-45f2-8ffa-273cbd6fe1a7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,6 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="swagger-parser.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/swagger-parser.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,6 +45,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
       <file leaf-file-name="example.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/swagger-json/example.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,6 +129,7 @@
       <file leaf-file-name="utils.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/utils.ts">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="135">
               <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="121" />
               <folding />
@@ -144,6 +152,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+=======
+            <state relative-caret-position="105">
+              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
               <folding />
             </state>
           </provider>
@@ -159,20 +171,45 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+=======
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
       <file leaf-file-name="test.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
+<<<<<<< HEAD
               <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding>
                 <element signature="n#!!block;n#/api/monitor/alive#0;n#!!top" expanded="false" />
@@ -183,6 +220,10 @@
                 <element signature="e#2765#2909#0" expanded="false" />
                 <element signature="n#!!block;n#/hotelreview#0;n#!!top" expanded="false" />
               </folding>
+=======
+              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <folding />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
             </state>
           </provider>
         </entry>
@@ -190,8 +231,13 @@
       <file leaf-file-name="interface.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/interface.ts">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="795">
               <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="32" />
+=======
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
               <folding />
             </state>
           </provider>
@@ -222,6 +268,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/template/jsclass.template.ejs" />
         <option value="$PROJECT_DIR$/lib/generate.ts" />
         <option value="$PROJECT_DIR$/dist/swagger-parser.js" />
@@ -233,6 +280,11 @@
         <option value="$PROJECT_DIR$/lib/swagger-parser.ts" />
         <option value="$PROJECT_DIR$/swagger-json/example.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+        <option value="$PROJECT_DIR$/swagger-json/example.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
       </list>
     </option>
   </component>
@@ -361,7 +413,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="13771000" />
+=======
+    <option name="totallyTimeSpent" value="1149000" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -404,10 +460,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="30" />
+<<<<<<< HEAD
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#45#202#0" expanded="true" />
           </folding>
+=======
+          <folding />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
         </state>
       </provider>
     </entry>
@@ -524,6 +584,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+<<<<<<< HEAD
           <folding>
             <element signature="n#!!block;n#/api/monitor/alive#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#/cityinfo#0;n#!!top" expanded="false" />
@@ -533,6 +594,9 @@
             <element signature="e#2765#2909#0" expanded="false" />
             <element signature="n#!!block;n#/hotelreview#0;n#!!top" expanded="false" />
           </folding>
+=======
+          <folding />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
         </state>
       </provider>
     </entry>
@@ -563,6 +627,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+<<<<<<< HEAD
+=======
         </state>
       </provider>
     </entry>
@@ -606,14 +672,211 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/interface.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="32" />
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test.json">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/const.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger-json/example.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="191" column="6" lean-forward="false" selection-start-line="191" selection-start-column="6" selection-end-line="191" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!block;n#info#0;n#!!top" expanded="false" />
+            <element signature="e#395#478#0" expanded="false" />
+            <element signature="e#480#575#0" expanded="false" />
+            <element signature="e#577#664#0" expanded="false" />
+            <element signature="e#666#755#0" expanded="false" />
+            <element signature="e#757#842#0" expanded="false" />
+            <element signature="e#844#937#0" expanded="false" />
+            <element signature="e#939#1028#0" expanded="false" />
+            <element signature="e#1030#1113#0" expanded="false" />
+            <element signature="e#1115#1202#0" expanded="false" />
+            <element signature="e#1204#1295#0" expanded="false" />
+            <element signature="n#!!block;n#/listinfo#0;n#!!block;n#paths#0;n#!!top" expanded="false" />
+            <element signature="e#9895#10078#0" expanded="false" />
+            <element signature="e#10080#10238#0" expanded="false" />
+            <element signature="n#!!block;n#PoiBasicInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ShopDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SeoFootBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#MyListShopDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SearchPoi#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#properties#0;n#!!block;n#SearchPoi#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#RelatedMyList#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ShopPicTagDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«ListInfoResponse»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#BrandNavBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Expense#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ExtInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«HotelReview»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HotwordOrArea#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«HistoryHotel»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«RelatedMyList»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#RecommendTitle#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Landmark#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#MyListBean#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ReviewUser#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#FollowNotePicDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HistoryHotel#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Score#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ReviewFollowNoteDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SubwayStation#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«HeaderInfo»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#TradingArea#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HotelInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SubwayLine#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#CityInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«ListOptionResponse»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HotwordOrAreaTerm#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SelectMenuItem#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#UserInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Review#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#RegionNavItem#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HeaderInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#PoiPic#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#NearbyInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HistoryHotelInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«CityInfo»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#HotelReview#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Star#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«SeoFootBean»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ShopPicDTO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#IdNameDo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#LocationInfo#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#SeoCity#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ApiResult«HotelInfo»#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#PoiLocation#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Recommend#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#PoiIntro#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ReviewDataVO#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#ListOptionResponse#0;n#!!block;n#definitions#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/swagger-parser.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/swagger-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/data-enhancer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generate.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/generate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+<<<<<<< HEAD
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="121" />
+          <folding />
+=======
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="47" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="795">
+          <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="32" />
+=======
+        <state relative-caret-position="105">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="180">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding>
@@ -632,6 +895,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+=======
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
           <folding />
         </state>
       </provider>
@@ -750,9 +1017,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="165">
           <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding />
+=======
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+>>>>>>> 740bfe192a8e082c17745b55b88b891d38bd980b
         </state>
       </provider>
     </entry>
