@@ -4,7 +4,6 @@ node_modules
 npm-debug.log
 *.swp
 .sw*
-.idea/*
 .jshintrc
 .travis.yml
 .sass-cache/
@@ -12,3 +11,4 @@ npm-debug.log
 *.zip
 docs
 swagger-json
+.idea
